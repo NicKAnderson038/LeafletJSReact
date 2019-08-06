@@ -1,2 +1,0 @@
-# LeafletJSReact
-Created with CodeSandbox
